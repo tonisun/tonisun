@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   style="z-index:1;position:relative"
+   width="854"
+   height="200"
+   viewBox="0 0 854 200"
+   version="1.1"
+   id="svg42"
+   sodipodi:docname="Bottom_up.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs46" />
+  <sodipodi:namedview
+     id="namedview44"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.412178"
+     inkscape:cx="399.73715"
+     inkscape:cy="99.845771"
+     inkscape:window-width="2560"
+     inkscape:window-height="1417"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg42" />
+  <style
+     id="style25">
+                .text {
+            font-size: 70px;
+            font-weight: 700;
+            font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+        }
+        .desc {
+            font-size: 20px;
+            font-weight: 500;
+            font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+        }
+
+            </style>
+  <g
+     transform="translate(427, 100) scale(1, 1) translate(-427, -100)"
+     id="g38">
+    <defs
+       id="defs32">
+      <linearGradient
+         id="linear"
+         x1="0%"
+         y1="0%"
+         x2="100%"
+         y2="0%">
+        <stop
+           offset="0%"
+           stop-color="#B993D6"
+           id="stop27" />
+        <stop
+           offset="100%"
+           stop-color="#8CA6DB"
+           id="stop29" />
+      </linearGradient>
+    </defs>
+    <path
+       d=""
+       fill="url(#linear)"
+       opacity="0.4"
+       id="path34">
+      <animate
+         attributeName="d"
+         dur="20s"
+         repeatCount="indefinite"
+         keyTimes="0;0.333;0.667;1"
+         calcmod="spline"
+         keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+         begin="0s"
+         values="M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z;M0 0L 0 145Q 213.5 160 427 140T 854 130L 854 0 Z;M0 0L 0 165Q 213.5 135 427 165T 854 130L 854 0 Z;M0 0L 0 120Q 213.5 160 427 130T 854 155L 854 0 Z" />
+    </path>
+    <path
+       d=""
+       fill="url(#linear)"
+       opacity="0.4"
+       id="path36">
+      <animate
+         attributeName="d"
+         dur="20s"
+         repeatCount="indefinite"
+         keyTimes="0;0.333;0.667;1"
+         calcmod="spline"
+         keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+         begin="-10s"
+         values="M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z;M0 0L 0 150Q 213.5 120 427 120T 854 140L 854 0 Z;M0 0L 0 145Q 213.5 125 427 150T 854 165L 854 0 Z;M0 0L 0 135Q 213.5 180 427 150T 854 160L 854 0 Z" />
+    </path>
+  </g>
+  <text
+     text-anchor="middle"
+     alignment-baseline="middle"
+     x="50%"
+     y="30.000002%"
+     class="text"
+     style="fill:#f7f5f5"
+     stroke="#none"
+     stroke-width="10"
+     id="text40"><tspan
+       style="fill:#008000"
+       id="tspan431">Welcome to my profile!</tspan></text>
+</svg>
