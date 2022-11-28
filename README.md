@@ -1,9 +1,9 @@
 # Hi there 👋
 ![Welcomme](Bottom_up_green.svg)
-- 🔭 I’m currently working on ... { https://gitlab.com/users/tonisun/projects, ...}
+- 🔭 I’m currently working on ... { https://gitlab.com/users/tonisun/...}
 - 🌱 I’m currently learning ... { https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes, ...}
 - 👯 I’m looking to collaborate on ... 100 % HomeOffice work in Java Spring Boot Application Development
-- 🤔 I’m looking for help with ... Java, Python, PHP, JS, C, PostgreSQL, MySQL 
+- 🤔 I’m looking for Projects with ... Java (Spring Boot Microservices), Python, PHP, JS, C, PostgreSQL, MySQL 
 - 💬 Ask me about ... { Yoga, God, ... }
 - 📫 How to reach me: ... https://www.egosanto.de/
 - 😄 Pronouns: ... Full Stack Software Engineer 
