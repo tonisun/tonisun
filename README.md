@@ -1,5 +1,5 @@
 # Hi there 👋
-![Welcomme](Bottom_up_green.svg)
+![Welcomme](Bottom_up_white.svg)
 - 🔭 I’m currently working on ... { https://gitlab.com/users/tonisun/...}
 - 🌱 I’m currently learning ... { https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes, ...}
 - 👯 I’m looking to collaborate on ... 100 % HomeOffice work in Java Spring Boot Application Development
